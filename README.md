@@ -20,14 +20,15 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<!-- <img src=""> -->
  </p>
  
  <hr>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarpodutwar&theme=radical)](https://git.io/streak-stats) 
 
-![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpodutwar&show_icons=true&theme=radical)
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpodutwar&show_icons=true&theme=radical)
 
  <img src="https://activity-graph.herokuapp.com/graph?username=omkarpodutwar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
