@@ -7,8 +7,8 @@
  <br>
  
  <ul>
-  <li>Computer Science Student at SPPU</li>
- <li>Core Team at Hack Club TechBrewers</li>
+  <li>CSE Graduate 23'</li>
+ <li>Building CampusWing</li>
 </ul>
 
 <p align="center">
