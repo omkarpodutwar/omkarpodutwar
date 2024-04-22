@@ -12,12 +12,14 @@
 </ul>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SpringBoot-008000?style=for-the-badge&logo=springboot&labelColor=white">
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&labelColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-008000?style=for-the-badge&logo=springboot&labelColor=white">
+<img src="https://img.shields.io/badge/REST%20API's-800000?style=for-the-badge&logo=REST%20API&labelColor=white">
+<img src="https://img.shields.io/badge/Microservices-008000?style=for-the-badge&logo=Spring&labelColor=white">
+<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=MySQL&labelColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=Kubernetes&labelColor=white">
+<img src="https://img.shields.io/badge/Bash%20Scripting-A9A9A9?style=for-the-badge&logo=scripting&labelColor=white">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&labelColor=white">
 <!-- <img src=""> -->
  </p>
  
