@@ -32,9 +32,9 @@
  
  <hr>
  
- <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarpodutwar&theme=radical)](https://git.io/streak-stats) 
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarpodutwar&theme=radical)](https://git.io/streak-stats) -->
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpodutwar&show_icons=true&theme=radical) -->
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpodutwar&show_icons=true&theme=radical) 
 
  
  ![Visits Badge](https://badges.pufler.dev/visits/omkarpodutwar/omkarpodutwar)
