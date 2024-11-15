@@ -7,9 +7,9 @@
  <br>
  
  <ul>
-  <li>Software Engineer</li>
- <li>Building CampusWing, browse @ www.campuswing.in</li>
- <li>Find my resume @ https://drive.google.com/file/d/1Jn3m0pwKO6EOgj3O7j-8-7g21YbRee3G/view
+  <li>🔭 I’m currently working as a Software Engineer @ Jio Platforms Limited</li>
+ <li>🏗️ Building CampusWing, visit @ www.campuswing.in</li>
+ <li>📂 Find my resume @ https://drive.google.com/file/d/1Jn3m0pwKO6EOgj3O7j-8-7g21YbRee3G/view
   
 </ul>
 
