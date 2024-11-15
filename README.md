@@ -1,8 +1,8 @@
 # <p align="center"> Hey folks !!👋  </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/omkarpodutwar/omkarpodutwar/blob/main/ln.jpg">
- </p>
+ </p> --->
  
  <br>
  
