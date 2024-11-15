@@ -7,8 +7,10 @@
  <br>
  
  <ul>
-  <li>CSE Graduate 23'</li>
- <li>Building CampusWing</li>
+  <li>Software Engineer</li>
+ <li>Building CampusWing, browse @ www.campuswing.in</li>
+ <li>Find my resume @ https://drive.google.com/file/d/1Jn3m0pwKO6EOgj3O7j-8-7g21YbRee3G/view
+  
 </ul>
 
 <p align="center">
