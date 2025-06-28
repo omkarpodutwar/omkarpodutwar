@@ -7,8 +7,7 @@
  <br>
  
  <ul>
-  <li>🔭 I’m currently working as a Software Engineer @ Jio Platforms Limited</li>
- <li>🏗️ Building CampusWing, visit @ www.campuswing.in</li>
+  <li>🔭 I’m currently working as a Software Engineer 1 @ Mastercard</li>
  <li>📂 Find my resume @ https://drive.google.com/file/d/1Sn_nOME-hMdkmlehgqB_cBGK0zSUOw7W/view?usp=drive_link
   
 </ul>
